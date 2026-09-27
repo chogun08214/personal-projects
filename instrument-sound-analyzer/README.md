@@ -1,7 +1,7 @@
 # 악기 소리 파형 · 스펙트럼 분석 앱 (Android)
 
 오보에 · 클라리넷 · 피아노 · 기타 소리를 재생하고, 소리의 **시간 파형**과 **주파수 스펙트럼(FFT)** 을 그래프로 보여주는 안드로이드 앱입니다.
-Python으로 먼저 해 본 소리 분석([FFT 저장소](https://github.com/chogun08214/FFT))을 안드로이드에서 직접 계산하도록 옮겼습니다.
+Python으로 먼저 해 본 소리 분석([fft-sound-synthesis](../fft-sound-synthesis/))을 안드로이드에서 직접 계산하도록 옮겼습니다.
 
 <p align="center"><img src="docs/demo.gif" width="300" alt="앱 시연"></p>
 
